@@ -1,0 +1,11 @@
+goLeft = false;
+goRight = false;
+goUp = false;
+goDown = false;
+doAction = false;
+areInputsAllowed = true;
+escape = false;
+toggleFullScreen = false;
+timer = 0;
+doCheat_1 = false;
+doCheat_2 = false;
