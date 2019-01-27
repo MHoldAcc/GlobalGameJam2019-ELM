@@ -2,9 +2,10 @@ timer++;
 
 if(timer >= timeTillNextItem){
 	timer = 0;
-	if(damageItemCount == 3){
+	if(damageItemCount >= maxItemsTillBananas){
 		instance_create_layer(1000, 650, "Entities", objBanana);
 		damageItemCount = 0;
+		maxItemsTillBananas = random_range(0, 5);
 	}
 	else{
 		instance_create_layer(1000, 650, "Entities", objTaco);
