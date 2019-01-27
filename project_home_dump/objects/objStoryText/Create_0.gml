@@ -1,0 +1,21 @@
+timer = 0;
+
+text = "What is home to you?"
++"\n"
++"\n"
++"\nTo some it is the place where they are most conferrable taking a dump."
++"\n"
++"\n"
++"\nGian is one of them."
++"\n"
++"\n"
++"\nOne day Gian was in the office and really needed to take a dump."
++"\n"
++"\n"
++"\nBut he has to be carefull. Eating one more taco might be his demise."
++"\n"
++"\n"
++"\nLuckily bananas help him to controll the urge to take a dump."
++"\n"
++"\n"
++ "\nHelp Gian getting home!" ;

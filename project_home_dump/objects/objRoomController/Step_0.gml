@@ -14,6 +14,14 @@ if(roomCode != 0){
 			//Death
 			room_goto(rmScore);
 			break;
+		case 4:
+			//Story
+			room_goto(rmStory);
+			break;
+		case 5:
+			//Credits
+			room_goto(rmCredits);
+			break;
 		default:
 			break;
 	}

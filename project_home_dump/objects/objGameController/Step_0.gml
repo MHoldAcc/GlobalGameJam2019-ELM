@@ -1,8 +1,5 @@
 timer++;
 
-if(timer == 1)
-	objRoomController.roomCode = 2;
-
 if(objInputReader.toggleFullScreen){
    if window_get_fullscreen()
       {

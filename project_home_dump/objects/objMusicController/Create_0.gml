@@ -1,2 +1,2 @@
-currentTrack = 0;
+currentTrack = 1;
 lastTrack = 0;
