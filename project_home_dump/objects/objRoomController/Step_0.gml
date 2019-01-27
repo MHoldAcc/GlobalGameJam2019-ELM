@@ -4,15 +4,15 @@ if(roomCode != 0){
 	switch (roomCode) {
 		case 1:
 			//Opening screen
-			//room_goto(room_opening);
+			room_goto(rmStartScreen);
 			break;
 		case 2:
-			//Go to ice fight
-			//room_goto(room_combat);
+			//Go runner
+			room_goto(rmRunner);
 			break;
 		case 3:
-			//Level select
-			//room_goto(room_levelSelect);
+			//Death
+			room_goto(rmScore);
 			break;
 		default:
 			break;
