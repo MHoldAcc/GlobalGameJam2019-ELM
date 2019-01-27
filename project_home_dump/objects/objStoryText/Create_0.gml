@@ -3,7 +3,7 @@ timer = 0;
 text = "What is home to you?"
 +"\n"
 +"\n"
-+"\nTo some it is the place where they are most conferrable taking a dump."
++"\nTo some it is the place where they are most confortable taking a dump."
 +"\n"
 +"\n"
 +"\nGian is one of them."
